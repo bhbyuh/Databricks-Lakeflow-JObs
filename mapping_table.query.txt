@@ -1,0 +1,11 @@
+-- CREATE TABLE mapping
+-- (
+--   file_name String
+-- );
+
+-- INSERT INTO mapping VALUES
+-- ("orders"),
+-- ("regions"),
+-- ("products");
+
+SELECT * FROM mapping
